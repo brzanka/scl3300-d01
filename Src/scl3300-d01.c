@@ -2,11 +2,8 @@
  * scl3300-d01.c
  *
  *  Created on: Jul 27, 2023
- *      Author: Anna Twarowska
+ *      Author: brzanka
  */
-// check crc?? Delay of 10 mikrosec between
-// module answering for the previous message
-//motorola or ti check
 
 #include "scl3300-d01.h"
 #include "spi.h"
