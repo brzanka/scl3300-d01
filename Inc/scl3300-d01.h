@@ -2,7 +2,7 @@
  * scl3300-d01.h
  *
  *  Created on: Jul 27, 2023
- *      Author: Anna Twarowska
+ *      Author: brzanka
  */
 
 #ifndef INC_SCL3300_D01_H_
