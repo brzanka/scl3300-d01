@@ -5,7 +5,7 @@
  * @brief   File provides the possibility to collect 3-dimentional data from
  * 			inclinometer via SPI bus.
  * @devices	STM32L151CBU6AT & Murata SCL3300-D01 Inclinometer
- * @author	Anna Twarowska
+ * @author	brzanka
  ******************************************************************************
   */
 /* USER CODE END Header */
